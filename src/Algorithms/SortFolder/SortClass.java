@@ -1,8 +1,13 @@
 package Algorithms.SortFolder;
+
 import java.util.*;
-
 import TestFolder.*;
-
+/**
+ * This class contains different methods to sort an array, following the pseudo-code
+ * of the book "Introduction to algorithms" third edition
+ * @author Claudia Daniela Bedoya Motta
+ *
+ */
 public class SortClass{
 	/**
 	 * Insertion sort: is an algorithm to sort. It is  efficient for a small number of elements.
