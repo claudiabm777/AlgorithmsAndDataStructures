@@ -3,7 +3,7 @@ package Algorithms.ArraysFolder;
 import Algorithms.ArraysFolder.AuxiliarClasses.*;
 /**
  * This class contains methods for different problems with arrays, following the pseudo-code
- * of the book "Introduction to algorithms"
+ * of the book "Introduction to algorithms" third edition
  * @author Claudia Daniela Bedoya Motta
  *
  */
@@ -11,7 +11,10 @@ public class ArrayClass {
 
 	/**
 	 * This method solves the problem of find the maximum crossing sub-array 
-	 * Is an auxiliary problem to solve findTheMaximumSubArray(...).
+	 * Is an auxiliary problem to solve findTheMaximumSubArray(...)
+	 * Worst case running time complexity: O(n).
+	 * Average case running time complexity: O(n).
+	 * Worst case extra-spatial complexity: O(1).
 	 * @param a - complete array
 	 * @param low - lower index of the sub-array to be evaluated
 	 * @param mid - middle index of the sub-array to be evaluated
@@ -46,6 +49,9 @@ public class ArrayClass {
 	/**
 	 * This method solves the problem of find the maximum sub-array 
 	 * The array must have at least one element
+	 * Worst case running time complexity: O(n log_2 n).
+	 * Average case running time complexity: O(n log_2 n).
+	 * Worst case extra-spatial complexity: O(1).
 	 * @param a - complete array
 	 * @param low - lower index of the array
 	 * @param high - higher index of the array to be evaluated
