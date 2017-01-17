@@ -1,4 +1,4 @@
-package Algorithms.MatrixFolder;
+package algorithms.matrix;
 
 public class MatrixClass {
 	/**

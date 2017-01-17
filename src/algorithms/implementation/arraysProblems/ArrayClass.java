@@ -1,6 +1,7 @@
-package Algorithms.ArraysFolder;
+package algorithms.implementation.arraysProblems;
 
-import Algorithms.ArraysFolder.AuxiliarClasses.*;
+import algorithms.implementation.arraysProblems.auxiliarClasses.TheMaximumSubAarrayProblemResult;
+
 /**
  * This class contains methods for different problems with arrays, following the pseudo-code
  * of the book "Introduction to algorithms" third edition

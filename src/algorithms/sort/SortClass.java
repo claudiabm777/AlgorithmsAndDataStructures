@@ -1,4 +1,4 @@
-package Algorithms.SortFolder;
+package algorithms.sort;
 
 import java.util.*;
 import TestFolder.*;

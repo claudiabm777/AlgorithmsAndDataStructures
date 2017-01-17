@@ -1,4 +1,4 @@
-package Algorithms.ArraysFolder.AuxiliarClasses;
+package algorithms.implementation.arraysProblems.auxiliarClasses;
 /**
  * This class represents the result for the problem of find maximum sub-array.
  * @author Claudia Daniela Bedoya Motta
