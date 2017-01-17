@@ -12,6 +12,7 @@ public class ArrayClass {
 
 	/**
 	 * This method solves the problem of find the maximum crossing sub-array 
+	 * Implementation according the book Introduction to Algorithms, third edition, page 68...
 	 * Is an auxiliary problem to solve findTheMaximumSubArray(...)
 	 * Worst case running time complexity: O(n).
 	 * Average case running time complexity: O(n).
